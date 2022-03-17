@@ -3,8 +3,8 @@ package org.techouts;
 public class UnaryOperator {
 
 	public static void main(String[] args) {
-		int number = 20;
-		System.out.println(number++);
+		int number = 23;
+	//	System.out.println(number++);
 		System.out.println(number--);
 		System.out.println(++number);
 		System.out.println(--number);
